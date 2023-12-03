@@ -87,13 +87,16 @@ if (isset($_POST['problem'])) {
               Find Hotels<br>Set a timetable to help keep track of your activites<br>Reminder for praying<br>Nearby Mosques<br>Find halal restaurants in the area.<br>
               Incredible Attractions</p>
 
-                <button id="myButton1" class="btn4" >Contact</button>
+                <button id="myButton1" class="btn4" onclick="scrollToContact()">Contact</button>
 
-                  <script type="text/javascript">
-                      document.getElementById("myButton1").onclick = function () {
-                          location.href = "Contact Us.php";
-                      };
-                  </script>
+                <script>
+                  function scrollToContact() {
+                      // Scroll to the footer
+                      document.getElementById('contact').scrollIntoView({ behavior: 'smooth' });
+                  }
+                </script>
+
+
               </div>
 
         </div>
@@ -108,7 +111,7 @@ if (isset($_POST['problem'])) {
                         WonderRehlah built-up in 2023 by Iman Afiq to allow muslims to plan their vacation while adhearing to their religious beliefs.
                         WonderRehlah is a user-friendly and simple platform which users can plan their vacation.
                     </p>
-                    <div class="contact">
+                    <div class="contact" id="contact">
                         <i class="fas fa-phone"></i> &nbsp;  +601135602204
                         <br>
                         <i class="fas fa-envelope"></i> &nbsp;  info@WonderRehlah.com
