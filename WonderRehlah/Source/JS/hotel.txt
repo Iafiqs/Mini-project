@@ -1,0 +1,11 @@
+1) Malacca, Melaka: https://www.booking.com/searchresults.en-us.html?aid=371698&label=f0808e3736925&sid=2e26ed6e5d4f78f79a61c676b562a235&city=-2403412&
+2) Johor Bahru, Johor: https://www.booking.com/searchresults.en-us.html?aid=371698&label=f0808e3736925&sid=2e26ed6e5d4f78f79a61c676b562a235&city=-2405456&
+3) George Town, Penang: https://www.booking.com/searchresults.en-us.html?city=-2403065&aid=371698&label=f0808e3736925&sid=2e26ed6e5d4f78f79a61c676b562a235
+4) Ipoh, Perak: https://www.booking.com/searchresults.en-us.html?aid=371698&label=f0808e3736925&sid=2e26ed6e5d4f78f79a61c676b562a235&city=-2403538&
+5) Port Dickson, Negeri Sembilan: https://www.booking.com/resorts/city/my/port-dickson.en-us.html?aid=371698&label=f0808e3736925&sid=2e26ed6e5d4f78f79a61c676b562a235&srpvid=6c2a7a8759ca0292&
+6) Kota Kinabalu, Sabah: https://www.booking.com/searchresults.en-us.html?aid=371698&label=f0808e3736925&sid=2e26ed6e5d4f78f79a61c676b562a235&city=-2404760&
+7) Kuantan, Pahang: https://www.booking.com/searchresults.en-us.html?aid=371698&label=f0808e3736925&sid=2e26ed6e5d4f78f79a61c676b562a235&city=-2402944&
+8) Kota Bharu, Kelantan: https://www.booking.com/searchresults.en-us.html?aid=371698&label=f0808e3736925&sid=2e26ed6e5d4f78f79a61c676b562a235&city=-2401743&
+9) Pantai Cenang, Kedah: https://www.booking.com/searchresults.en-us.html?aid=371698&label=f0808e3736925&sid=2e26ed6e5d4f78f79a61c676b562a235&city=900040048&
+10) Perhentian Islands, Terangganu: https://www.booking.com/searchresults.en-us.html?aid=371698&label=f0808e3736925&sid=2e26ed6e5d4f78f79a61c676b562a235&city=900048540&
+11) Kuching, Sarawak: https://www.booking.com/searchresults.en-us.html?aid=371698&label=f0808e3736925&sid=2e26ed6e5d4f78f79a61c676b562a235&city=-2402530&

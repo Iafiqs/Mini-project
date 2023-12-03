@@ -1,0 +1,100 @@
+{
+  "articles":[
+    {
+      "name":"The Ganga Cafe",
+      "location":"Selangor",
+      "url":"https://www.theganga.com.my/",
+      "time":"1 hour",
+      "overview":"Vegetarian, Vegan, Jain, Buddhist, Malaysian, Gujarati, South & North Indian Cuisine Cooked From Our Hearts.",
+      "image":"https://www.theganga.com.my/wp-content/uploads/2020/11/logox.png"
+    },
+    {
+      "name":"Skytrex Adventure",
+      "location":"Selangor",
+      "url":"https://www.skytrex-adventure.org/",
+      "time":"45 minutes",
+      "overview":"Where the fun in the forest never ends!",
+      "image":"https://static.wixstatic.com/media/4df90e_a8f8c4bfab47426f87a141cd08c204d6~mv2.jpg/v1/crop/x_275,y_141,w_840,h_1257/fill/w_434,h_590,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/20190706_171221_edited.jpg"
+    },
+    {
+      "name":"Snowalk I-city",
+      "location":"Selangor",
+      "url":"https://iticket.i-city.my/products/snowalk-aurora",
+      "time":"1 hour",
+      "overview":"Dynamic patterns of brilliant northern lights across the arctic skylines",
+      "image":"https://iticket.i-city.my/cdn/shop/products/AppPackageBanner_SW_1944x.png?v=1669744355"
+    },
+    {
+      "name":"Aquaria KLCC",
+      "location":"Selangor",
+      "url":"https://aquariaklcc.com/",
+      "time":"2 hours",
+      "overview":"An ocean of discovery. Conservation Solutions. Take an underwater Journey with us.",
+      "image":"https://aquariaklcc.com/wp-content/uploads/2022/07/aquariaKLCC-colour-logo.webp"
+    },
+    {
+      "name":"Menara Taming Sari",
+      "location":"Melaka",
+      "url":"https://www.menaratamingsari.com/",
+      "time":"1 hour",
+      "overview":"A BREATH-TAKING VIEW FROM A HEIGHT OF 80 METERS.",
+      "image":"https://www.menaratamingsari.com/wp-content/uploads/2022/11/header-logo.png"
+    },
+    {
+      "name":"Upside Down House Melaka",
+      "location":"Melaka",
+      "url":"https://www.upsidedownhousemelaka.com.my/",
+      "time":"45 minutes",
+      "overview":"All the furniture and furnishings in Upside Down House Melaka is placed upside down.",
+      "image":"https://cdn1.npcdn.net/images/1547005506banner_2.jpg"
+    },
+    {
+      "name":"Jonker Street",
+      "location":"Melaka",
+      "url":"https://www.triphobo.com/places/melaka-malaysia/jonker-street",
+      "time":"3 hours",
+      "overview":"Amazing place with various food and souvenirs.",
+      "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/43/21/a1/the-jonker-street-night.jpg?w=1200&h=-1&s=1"
+    },
+    {
+      "name":"Legoland Malaysia",
+      "location":"Johor",
+      "url":"https://www.legoland.com.my/",
+      "time":"6 hours",
+      "overview":"A unique LEGO themed destination. Over 80 shows, rides, slides & attractions!",
+      "image":"https://www.legoland.com.my/media/cdzpxcnc/_mg_2795.jpg?anchor=center&mode=crop&format=webp&quality=80&width=600&height=600"
+    },
+    {
+      "name":"Danga Bay",
+      "location":"Johor",
+      "url":"https://www.triphobo.com/places/johor-bahru-malaysia/danga-bay",
+      "time":"2 hours",
+      "overview":"The biggest recreational park in Johor Bahru.",
+      "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/27/60/e3/danga-bay.jpg?w=1200&h=-1&s=1"
+    },
+    {
+      "name":"Dataran Bandaraya Johor Bahru",
+      "location":"Johor",
+      "url":"https://gojohor.my/dataran-bandaraya/",
+      "time":"2 hours",
+      "overview":"From Dataran Bandaraya, you can visit Lido Beach, Johor Zoo, Sultan Abu Bakar Mosque, St. Christopher’s Anglican Church, Johor Art Gallery etc.",
+      "image":"https://gojohor.my/site/wp-content/uploads/2014/02/dataran-bandaraya.jpg"
+    },
+    {
+      "name":"Ksl City Mall",
+      "location":"Johor",
+      "url":"https://www.tripadvisor.com.my/Attraction_Review-g298278-d3734526-Reviews-KSL_City_Mall-Johor_Bahru_Johor_Bahru_District_Johor.html",
+      "time":"2 hours",
+      "overview":"From Dataran Bandaraya, you can visit Lido Beach, Johor Zoo, Sultan Abu Bakar Mosque, St. Christopher’s Anglican Church, Johor Art Gallery etc.",
+      "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/84/bb/5f/facade.jpg?w=1100&h=-1&s=1"
+    },
+    {
+      "name":"Hutan Bandar MBJB",
+      "location":"Johor",
+      "url":"https://goo.gl/maps/WLUhaMbjjwSGseg47",
+      "time":"2 hours",
+      "overview":"Popular spot for outdoor breakfast & Malaysian snacks at a forested park with kids' play areas.",
+      "image":"https://lh3.googleusercontent.com/p/AF1QipNEW20JEr2_IF09cCHFddM7Btnv6IP5KUGQ8mqX=s1360-w1360-h1020"
+    }
+  ]
+}

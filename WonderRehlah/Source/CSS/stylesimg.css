@@ -1,0 +1,54 @@
+/* PHP:MyProfile: Styles the img1 class: the profile image */
+.img1 {
+	width: 100px;
+	height: 280px;
+	border-radius: 50%;
+}
+
+/* PHP:MyProfile: Styles the card class: the card for your profile's info */
+.card {
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  background: linear-gradient(90deg, rgb(42, 157, 143) 0%, rgb(38, 70, 83) 50%, rgb(4, 4, 4) 100%);
+  max-width: 300px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+/* PHP:MyProfile, About Us: Styles the title class: the paragraph text for the files */
+.title {
+  color: #fdfdfd;
+  font-size: 20px;
+}
+
+/* PHP:About Us: Styles the class about1: the card for the about content */
+.about1 {
+  border-radius: 10px;
+  padding: 20px;
+  background: linear-gradient(90deg, rgba(42, 157, 143) 0%, rgba(38, 70, 83) 50%, rgba(4, 4, 4, 1) 100%);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+/* PHP:About Us: Styles the class btn4: the btn for contact */
+.btn4 {
+  border-radius: 5px;
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: rgb(233, 196, 106);
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 20px;
+}
+
+/* PHP:About Us : Styles the btn4 class when hovering */
+.btn4:hover {
+  opacity: 0.7;
+}
